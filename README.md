@@ -6,9 +6,9 @@ Técnico de suporte informático em **Santa Maria da Feira (Porto)**, à procura
 - 🌐 Formação em Web Development (MasterD), com uma loja online feita com segurança desde o início
 - 📚 A estudar agora: Python e Inglês
 
-**Portfólio:** https://kinnek0x.github.io
-**LinkedIn:** https://www.linkedin.com/in/guilherme-fernandes-099040249/
-**E-mail:** guilhermegrafica57@gmail.com
+- **Portfólio:** https://kinnek0x.github.io
+- **LinkedIn:** https://www.linkedin.com/in/guilherme-fernandes-099040249/
+- **E-mail:** guilhermegrafica57@gmail.com
 
 #### Competências
 
